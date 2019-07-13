@@ -1,0 +1,13 @@
+ipv4     2 tcp      6 83 TIME_WAIT src=10.36.7.1 dst=10.36.7.7 sport=35520 dport=9994 packets=5 bytes=385 src=10.36.7.7 dst=10.36.7.1 sport=9994 dport=35520 packets=5 bytes=387 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 86399 ESTABLISHED src=10.36.10.228 dst=10.36.7.7 sport=35760 dport=9994 src=10.36.7.7 dst=10.36.10.228 sport=9994 dport=35760 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 58 TIME_WAIT src=10.36.7.1 dst=10.36.7.57 sport=49212 dport=4191 packets=5 bytes=386 src=10.36.7.57 dst=10.36.7.1 sport=4191 dport=49212 packets=5 bytes=349 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 38 TIME_WAIT src=10.36.7.1 dst=10.36.7.58 sport=43852 dport=10054 packets=5 bytes=401 src=10.36.7.58 dst=10.36.7.1 sport=10054 dport=43852 packets=5 bytes=446 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 86394 ESTABLISHED src=10.36.10.228 dst=10.36.7.7 sport=48256 dport=4191 src=10.36.7.7 dst=10.36.10.228 sport=4191 dport=48256 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 39 TIME_WAIT src=10.36.7.1 dst=10.36.7.57 sport=56904 dport=9995 packets=5 bytes=385 src=10.36.7.57 dst=10.36.7.1 sport=9995 dport=56904 packets=5 bytes=389 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 89 TIME_WAIT src=10.36.7.1 dst=10.36.7.58 sport=37126 dport=8081 packets=5 bytes=390 src=10.36.7.58 dst=10.36.7.1 sport=8081 dport=37126 packets=5 bytes=406 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 12 TIME_WAIT src=10.36.7.1 dst=10.36.7.7 sport=35246 dport=9994 packets=5 bytes=384 src=10.36.7.7 dst=10.36.7.1 sport=9994 dport=35246 packets=5 bytes=389 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 61 TIME_WAIT src=127.0.0.1 dst=127.0.0.1 sport=36462 dport=27304 packets=13 bytes=1954 src=127.0.0.1 dst=127.0.0.1 sport=27304 dport=36462 packets=10 bytes=5362 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 53 TIME_WAIT src=127.0.0.1 dst=127.0.0.1 sport=47212 dport=10255 packets=6 bytes=406 src=127.0.0.1 dst=127.0.0.1 sport=10255 dport=47212 packets=4 bytes=334 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 88 TIME_WAIT src=10.36.7.1 dst=10.36.7.7 sport=53844 dport=4191 packets=5 bytes=387 src=10.36.7.7 dst=10.36.7.1 sport=4191 dport=53844 packets=5 bytes=2342 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 55 TIME_WAIT src=10.36.7.1 dst=10.36.7.58 sport=43918 dport=10054 packets=5 bytes=389 src=10.36.7.58 dst=10.36.7.1 sport=10054 dport=43918 packets=5 bytes=2450 [ASSURED] mark=0 zone=0 use=2
+ipv4     2 tcp      6 91 TIME_WAIT src=10.36.7.1 dst=10.36.7.58 sport=44066 dport=10054 packets=5 bytes=401 src=10.36.7.58 dst=10.36.7.1 sport=10054 dport=44066 packets=5 bytes=446 [ASSURED] mark=0 zone=0 use=2

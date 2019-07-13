@@ -1,0 +1,9 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: kubecost-conntrack-parser
+  labels:
+    k8s-app: kubecost-conntrack-parser
+spec:
+  containers:
+  - name: AjayTripathy/kubecost-conntrack:prod
